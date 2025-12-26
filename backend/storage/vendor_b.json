@@ -1,0 +1,53 @@
+{
+  "asOf": "2025-12-20T08:30:00",
+  "items": [
+    {
+      "partNumber": "PN-4070-12G",
+      "title": "NVIDIA RTX 4070 12GB",
+      "pricing": {
+        "amount": 699.99,
+        "ccy": "USD"
+      }
+    },
+    {
+      "partNumber": "PN-7800X3D",
+      "title": "AMD Ryzen 7 7800X3D",
+      "pricing": {
+        "amount": 389.0,
+        "ccy": "USD"
+      }
+    },
+    {
+      "partNumber": "PN-MB-B650",
+      "title": "MSI B650 ATX Motherboard",
+      "pricing": {
+        "amount": 159.0,
+        "ccy": "USD"
+      }
+    },
+    {
+      "partNumber": "PN-RAM-32-D5-6000",
+      "title": "32GB DDR5 6000 Kit",
+      "pricing": {
+        "amount": 119.0,
+        "ccy": "USD"
+      }
+    },
+    {
+      "partNumber": "PN-SSD-1TB-NVME4",
+      "title": "1TB NVMe Gen4 SSD",
+      "pricing": {
+        "amount": 84.99,
+        "ccy": "USD"
+      }
+    },
+    {
+      "partNumber": "PN-PSU-750-G",
+      "title": "750W 80+ Gold PSU",
+      "pricing": {
+        "amount": 99.0,
+        "ccy": "USD"
+      }
+    }
+  ]
+}
